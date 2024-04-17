@@ -28,7 +28,7 @@ def circulate():
     print("After circulating the values are:",list1[n:]+list1[:n])
 ```
 ## Output:
-
+![alt text](<Screenshot 2024-04-17 060930.png>)
 
 ## Result:
 The output for circulate the values of n variables is successfull.
